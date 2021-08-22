@@ -1,4 +1,4 @@
-data_path = "C:/Users/Sol/projects/Rosalinda/py_basics/rosalind_ini6.txt"
+data_path = "py_basics/rosalind_ini6.txt"
 
 string = open(data_path, 'r').read().split()
 dict_words = {}

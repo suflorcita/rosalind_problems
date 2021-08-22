@@ -1,4 +1,4 @@
-data_path = "C:/Users/Sol/projects/Rosalinda/py_basics/rosalind_ini5.txt"
+data_path = "py_basics/rosalind_ini5.txt"
 
 
 file = open(data_path, 'r')
